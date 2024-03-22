@@ -1,12 +1,5 @@
 ### Olá, eu sou o Victor Hugo!👋
-
-<div><img align="right" alt="Victor-ghost" height="100" width="100" src="https://i.gifer.com/origin/06/0651517112a9ca41a238bcaa4252c246_w200.gif">
-</div>
-  <div>
-   <img align="right" alt="Victor-ghost" height="500" width="500" src="https://i.gifer.com/origin/06/0651517112a9ca41a238bcaa4252c246_w200.gif">
    <b>Desenvolvedor Full Stack</b> 🧑‍💻 <p>
-</div>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png">
