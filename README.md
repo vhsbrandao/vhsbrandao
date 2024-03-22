@@ -1,8 +1,11 @@
+### Olá, eu sou o Victor Hugo!👋
+
 <div><img align="right" alt="Victor-ghost" height="100" width="100" src="https://i.gifer.com/origin/06/0651517112a9ca41a238bcaa4252c246_w200.gif">
 </div>
-### Olá, eu sou o Victor Hugo!👋
-<body style="background-color:powderblue;">
-<b>Desenvolvedor Full Stack</b> 🧑‍💻 <p>
+  <div>
+   <img align="right" alt="Victor-ghost" height="500" width="500" src="https://i.gifer.com/origin/06/0651517112a9ca41a238bcaa4252c246_w200.gif">
+   <b>Desenvolvedor Full Stack</b> 🧑‍💻 <p>
+</div>
 </div>
 
 <div style="display: inline_block"><br>
