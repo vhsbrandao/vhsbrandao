@@ -18,8 +18,6 @@ My little kids:
 </body>
 <p>
 <p>
-  
-</p></p>
 ps: eu não sou ex-bbb, tá?
 <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="pixel-art" width="300">
 <!--
