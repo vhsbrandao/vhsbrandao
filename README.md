@@ -8,7 +8,7 @@ Desenvolvedor e ex-bbb
 <p>Em 2023, dei um salto em direção ao desenvolvimento web, graduando-me no renomado bootcamp do Le Wagon. Desde então, tenho me aprofundado em <code>JavaScript</code>, <code>Ruby on Rails</code>, <code>SQL</code> e outras linguagens, mantendo-me atualizado com as últimas novidades e buscando constantemente crescer.</p>
 
 <p>Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para soluções inovadoras. Se precisar de alguém entusiasmado, com espírito de equipe e pronto para encarar desafios, estou aqui! Vamos juntos nessa jornada!</p>
-<img src="https://media1.tenor.com/m/adho7VbkF1wAAAAd/lofi-girl.gif" alt="lofi-girl">
+<img src="https://media1.tenor.com/m/adho7VbkF1wAAAAd/lofi-girl.gif" alt="lofi-girl" width="300">
 
 My little kids:
   <img align="center" alt="Victor-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png">
