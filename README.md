@@ -8,7 +8,6 @@ Desenvolvedor e ex-bbb
 <p>Em 2023, dei um salto em direção ao desenvolvimento web, graduando-me no renomado bootcamp do Le Wagon. Desde então, tenho me aprofundado em <code>JavaScript</code>, <code>Ruby on Rails</code>, <code>SQL</code> e outras linguagens, mantendo-me atualizado com as últimas novidades e buscando constantemente crescer.</p>
 
 <p>Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para soluções inovadoras. Se precisar de alguém entusiasmado, com espírito de equipe e pronto para encarar desafios, estou aqui! Vamos juntos nessa jornada!</p>
-<img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="pixel-art" width="300">
 
 My little kids:
   <img align="center" alt="Victor-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png">
@@ -22,6 +21,7 @@ My little kids:
   
 </p></p>
 ps: eu não sou ex-bbb, tá?
+<img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="pixel-art" width="300">
 <!--
 **vhsbrandao/vhsbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
