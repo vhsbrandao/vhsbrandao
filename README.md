@@ -15,7 +15,6 @@ My little kids:
   <img align="center" alt="Victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png">
 </body>
-<p>ps: eu não sou ex-bbb, tá?
 <p>
 <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="pixel-art" width="300">
 <!--
