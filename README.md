@@ -2,7 +2,7 @@
 # <h1>Victor Hugo Brandão - dev 👋 </h1> 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Hugo-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugobrandao/)](https://www.linkedin.com/in/victorhugobrandao) [![Gmail Badge](https://img.shields.io/badge/-victor_brandao@ymail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor_brandao@ymail.com)](mailto:victor_brandao@ymail.com) <p>
 <div style="display: inline_block"><br>
-<p>Minha jornada com código começou na era do BlogSpot, onde eu navegava por páginas repletas de <code>HTML</code> e <code>CSS</code>, cheias de gifs e cores neon. Cultivar comunidades sempre foi meu hobby desde então, e agora virou minha profissão. Construí uma carreira na área da comunicação, mas minha paixão pela tecnologia me chamou de volta.</p>
+<p>Minha jornada com código começou na era do BlogSpot, onde eu navegava por páginas repletas de <code>HTML</code> e <code>CSS</code>, cheias de gifs e cores neon.</p>
 
 <p>Em 2023, dei um salto em direção ao desenvolvimento web, graduando-me no renomado bootcamp do Le Wagon. Desde então, tenho me aprofundado em <code>JavaScript</code>, <code>Ruby on Rails</code>, <code>SQL</code> e outras linguagens, mantendo-me atualizado com as últimas novidades e buscando constantemente crescer.</p>
 
