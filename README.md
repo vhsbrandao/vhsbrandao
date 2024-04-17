@@ -7,15 +7,7 @@
 Anteriormente, atuei no Le Wagon, coordenando e executando diversos eventos online e offline, estabelecendo parcerias estratégicas e gerenciando conteúdo em várias plataformas. Sou impulsionado pela conexão entre tecnologia e comunicação, e estou entusiasmado para me juntar a uma equipe onde possa aplicar minhas habilidades e contribuir para soluções inovadoras.
 
 </p>
-<p>
-  <img align="center" alt="Victor-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png">
-  <img align="center" alt="Victor-Ruby" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="Victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png">
-</body>
-<p>
-<img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="pixel-art" width="200">
+
 <!--
 **vhsbrandao/vhsbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
